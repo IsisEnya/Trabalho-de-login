@@ -1,0 +1,12 @@
+	 Considerações finais: durante a elaboração desse projeto o meu servidor do site as vezes simplesmente
+parava de funcionar(abria mas ficava tudo branco), eu resetava ele e mesmo assim não queria trabalhar, então eu 
+fechava tudo e abria de novo(só para caso aconteça, qualquer coisa corrige pelos códigos). Eu estou ciente que o
+nosso trabalho esta incompleto, e que foi entregue fora do prazo.
+
+-Durante a semana eu acabei não tentando melhorar o arquivo, pois achei que não teria como "entregar de novo"
+-Eu usei tentei usar algumas coisas que eu aprendi fora da aula, nem todas estão funcionando, então talvez de encontrar alguns rastros 
+-O front eu me basei no video onde eu estava me guiando 
+-Eu não aguento mais progamar de em um positivo (ele ta parecendo um ventilador)
+-Caso não funcionar tenha piedade 🙏 kkkkkkk
+
+	Dupla: Ísis e Isabela.
